@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Ly</h1>
-<h3 align="center">A passionate 3rd year Computer Science student at Oregon State University</h3>
+<h3 align="center">I'm a passionate 3rd year Computer Science student at Oregon State University! I'm currently based in Los Angeles, CA.</h3>
 
 - 🔭 I’m currently working on [Yelp Comment Search](https://github.com/LyAndy09/Yelp-Comment-Search)
 
