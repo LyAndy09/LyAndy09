@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LyAndy09](https://github.com/LyAndy09)
+- 👨‍💻 All of my projects are available here at (https://github.com/LyAndy09)
 
 - 📫 How to reach me **LyAnd@OregonState.edu**
 
